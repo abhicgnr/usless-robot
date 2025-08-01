@@ -114,7 +114,7 @@ Click Upload ▶️
 For Software:
 
 # Screenshots (Add at least 3)
-![Alt Text](CIRCUIT CONNECTION.png)
+![Alt Text](CIRCUITCONNECTION.png)
 
 
 ![Screenshot2](Add screenshot 2 here with proper name)
