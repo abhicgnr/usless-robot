@@ -1,54 +1,63 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# USELESS TOMMY ROBO 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: TIME PASS
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: BEN PHILIP - MAR BASELIOS CHRISTIAN COLLEGE OF ENGINEERING AND TECHNOLOGY PEERMADE
+- Member 2: ABIN ABRAHAM - MAR BASELIOS CHRISTIAN COLLEGE OF ENGINEERING AND TECHNOLOGY PEERMADE
 
 ### Project Description
-[2-3 lines about what your project does]
+This project showcases TOMMY, a simple and expressive robot face built using ESP32, an OLED display, and a servo motor to simulate eye-blinking and nodding motions.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+In a world full of cold, lifeless robots, who will nod in agreement to your brilliant ideas or give you a blank stare that somehow feels judgmental?
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Introducing TOMMY – a desk buddy with no real job, no wheels, and zero productivity...
+But wow, does it have expressions.
 
 ## Technical Details
 ### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+ Hardware:
+- ESP 32 DEV MODULE
+- SERVO MOTOR
+- OLED DISPLAY 
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+1)Install the Arduino IDE.
+
+2)Install the following libraries via Library Manager:
+
+3)Adafruit SSD1306
+
+4)Adafruit GFX
+
+5)ESP32Servo (if using ESP32)
+
 
 # Run
-[commands]
+1)Open the .ino file in Arduino IDE.
 
+2)Select your board (e.g. ESP32 Dev Module) and COM port.
+
+3)Connect your components as per the wiring below.
+
+Click Upload ▶️
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Alt Text](relative/path/to/image.png)
+
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
