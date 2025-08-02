@@ -121,22 +121,17 @@ For Software:
 
 # Diagram
 ![CIRCUIT DIAGRAM](https://github.com/abhicgnr/usless-robot/blob/e1c1eb14f79b273466fadf67ff9487acc55c4b66/CIRCUIT%20CONNECTION.png)
-*Add caption explaining your workflow*
+OLED Display: Displays frames stored in all_frames.h. These create a looping animation of facial expressions.
+Servo Control: Every few seconds, the servo randomly nods the "head" (or eyelid), then returns smoothly.
+Random Timing: Nod intervals are randomized to add more personality and prevent robotic predictability.
+
 
 ![Schematic](Add your schematic diagram here)
 *Add caption explaining the schematic*
 
 ### Project Demo
 # Video
-
-
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+https://drive.google.com/file/d/1NJbE0hK12aVupZtRDtknpgl93zq41Yuk/view?usp=drive_link
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
