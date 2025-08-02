@@ -121,9 +121,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- ABIN ABRAHAM: FULLY DEVELOPED THE SYSTEMMATIC AND THE HARDWARE 
+- BEN T PHILIP: WORKED WITH ARDUINO IDE
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
