@@ -114,7 +114,7 @@ Click Upload ▶️
 For Software:
 
 # Screenshots (Add at least 3)
-![Alt Text](CIRCUITCONNECTION.png)
+![Alt Text](https://github.com/abhicgnr/usless-robot/blob/a5995294401822d5f282c348d0027729f3e4ec7e/CIRCUIT%20CONNECTION.png)
 
 
 ![Screenshot2](Add screenshot 2 here with proper name)
