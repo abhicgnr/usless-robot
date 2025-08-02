@@ -114,7 +114,7 @@ Click Upload ▶️
 For Software:
 
 # Screenshots (Add at least 3)
-SIDEVIEW(https://github.com/abhicgnr/usless-robot/blob/c04339e52d230d6cc573cfcd3ebbe818a5c06d95/SIDEVIEW.jpeg)
+![SIDEVIEW](https://github.com/abhicgnr/usless-robot/blob/c04339e52d230d6cc573cfcd3ebbe818a5c06d95/SIDEVIEW.jpeg)
 
 
 ![Screenshot2](Add screenshot 2 here with proper name)
