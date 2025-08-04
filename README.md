@@ -73,7 +73,8 @@ Random Timing: Nod intervals are randomized to add more personality and prevent 
 ### Project Demo
 # Video
 https://drive.google.com/file/d/1NJbE0hK12aVupZtRDtknpgl93zq41Yuk/view?usp=drive_link
-
+# Explanation Video
+https://drive.google.com/file/d/1v-CkjL9Yz3RhEWXhSw-X6MzbjxWFOYX3/view?usp=drivesdk
 ---
 Made with ❤️ at TinkerHub Useless Projects 
 
